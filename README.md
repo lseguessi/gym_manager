@@ -10,7 +10,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://s7.gifyu.com/images/gym.gif" />
+  <img src="https://i.imgur.com/jdozBgs.jpg" />
 </div>
 
 &nbsp;
