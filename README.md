@@ -10,7 +10,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://s7.gifyu.com/images/gym_manager.gif" />
+  <img src="https://s7.gifyu.com/images/gym.gif" />
 </div>
 
 &nbsp;
